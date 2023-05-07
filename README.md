@@ -1,6 +1,5 @@
 
-I love to create nice things, 
-passion for Rust 🦀 & blockchain development.
+I love to create nice things.
 
 ———
 
@@ -8,21 +7,21 @@ passion for Rust 🦀 & blockchain development.
 
 * Applying data science, simulation, blockchain and information technology to accelerate innovation. 
 
-* Polkadot evangelist & developer (substrate)
-
-* Solana developer
-
-* Rust 🦀 / GoLang / R / Java / Scala / Vue.js / MongoDB 
-
 * Modeling & simulation / Data analytics / Decision support systems / Artificial Intelligence / Blockchain
 
 * Strategic marketing / Operations management / Information technology / Business Intelligence
+
+* Rust 🦀 / GoLang / R / Java / Scala / Vue.js / MongoDB 
+
+* Polkadot & Solana developer
 
 * Business process modeling
 
 * Team building & leadership training
 
 * Speaker, lecturer, seminar provider
+
+* Sailing ⛵️ & Tango 🕺 enthusiast 
 
 ———
 Juergen Woeckl 
