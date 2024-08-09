@@ -11,7 +11,7 @@ I love to create nice things.
 
 * Strategic marketing / Operations management / Information technology / Business Intelligence
 
-* Rust 🦀 / GoLang / R / Java / Scala / Jacascript / Astro / Deno / Fresh / Preact/ Vue.js / MongoDB / ...
+* Rust 🦀 / GoLang / R / Java / Scala / Jacascript / Astro / Deno / Fresh / Preact / Vue.js / MongoDB / ...
 
 * Polkadot & Solana developer
 
