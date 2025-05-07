@@ -13,7 +13,7 @@ I love to create nice things.
 
 * Rust 🦀 / GoLang / R / Java / Scala / Jacascript / Astro / Deno / Fresh / Preact / Vue.js / MongoDB / ...
 
-* Polkadot & Solana developer
+* Solana developer
 
 * Business process modeling
 
